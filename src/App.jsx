@@ -64,7 +64,7 @@ const TI_DRILLS = {
   skateDrill:     "Skate Position: Hold Side Balance with lead arm extended (like a skater's glide). Count strokes needed to cross the pool — aim to reduce over time. 4×25 m.",
   doggyPaddle:    "Doggy Paddle Catch: Pull with bent elbow, hands pushing back below chest. Trains early vertical forearm (EVF) and high-elbow catch. Keep hips up. 4×25 m.",
   fistDrill:      "Fist Drill: Swim full stroke with closed fists. Forces use of forearm as a paddle surface. Open hands after 25 m and feel the difference. 4×50 m alternate.",
-  # Peak drills
+  // Peak drills
   tempoTrainer:   "Tempo Trainer (TT) Work: Use a Tempo Trainer set to your target stroke rate. Maintain stroke count per length while matching the beep. 8×50 m at race tempo.",
   sightingDrill:  "Open Water Sighting: Every 8–10 strokes, lift eyes just above the waterline to sight a target. Minimize head lift — chin stays in water. 4×100 m continuous.",
 };
